@@ -44,5 +44,3 @@ for the exercise of git workflow based on squash and merge
 6. ticket-1 branch
 7. ticket-1 branch
 8. ticket-1 branch
-9. ticket-1 branch
-10. ticket-1 branch
