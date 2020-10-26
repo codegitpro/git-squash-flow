@@ -31,3 +31,14 @@ git merge <JIRA-ID>
 
 // Share to origin
 git push origin development
+
+
+we are gonna make some change in the below section
+for the exercise of git workflow based on squash and merge
+
+1. dev branch
+2. dev branch
+3. dev branch
+4. dev branch
+5. dev branch
+6. dev branch
