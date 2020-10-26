@@ -37,8 +37,8 @@ we are gonna make some change in the below section
 for the exercise of git workflow based on squash and merge
 
 1. dev branch
-2. dev branch
-3. dev branch
+2. ticket-1 branch
+3. ticket-1 branch
 4. dev branch
 5. dev branch
 6. dev branch
